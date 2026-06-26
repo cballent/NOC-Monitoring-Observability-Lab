@@ -24,7 +24,7 @@ Implemented:
 - Alerting for infrastructure issues
 
 🔗 Project Documentation:
-[View NOC Monitoring Lab](https://github.com/cballent/NOC-Monitoring-Lab-Prometheus-Grafana/blob/6a22518e41a96c526f532cd13df4f9565f96ae92/NOC-Lab-Documentation.md#noc-monitoring-lab--prometheus--grafana)
+[View NOC Monitoring Lab] ()
 
 
 
