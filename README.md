@@ -12,7 +12,7 @@ I am focused on building hands-on experience in network operations, infrastructu
 
 🚀 Featured Projects
 
-### 🖥️ NOC Monitoring & Observability Lab (Prometheus + Grafana)
+🖥️ NOC Monitoring & Observability Lab (Prometheus + Grafana)
 
 Built a real-time infrastructure monitoring environment using Ubuntu Server, Prometheus, Grafana, and Node Exporter.
 
@@ -23,7 +23,6 @@ Implemented:
 - Grafana dashboards
 - Alerting for infrastructure issues
 
-🔗 Project Documentation:
 🚀 Featured Projects
 🖥️ NOC Monitoring & Observability Lab (Prometheus + Grafana)
 Built a real-time infrastructure monitoring environment using Ubuntu Server, Prometheus, Grafana, and Node Exporter.
@@ -36,8 +35,6 @@ Implemented:
 
 🔗 Project Documentation:
 [View NOC Monitoring Lab](NOC-Lab-Documentation.md)
-
-
 
 Implemented:
 - CPU, memory, disk, and network monitoring
