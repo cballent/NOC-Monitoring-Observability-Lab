@@ -10,13 +10,23 @@ I am focused on building hands-on experience in network operations, infrastructu
 - ✅ CompTIA Network+ Certified
 - 📚 CompTIA Security+ (In Progress)
 
-🚀 Featured Project
-NOC Monitoring & Observability Lab
-Built a monitoring environment using:
-- Ubuntu Server
-- Prometheus
-- Grafana
-- Node Exporter
+🚀 Featured Projects
+
+### 🖥️ NOC Monitoring & Observability Lab (Prometheus + Grafana)
+
+Built a real-time infrastructure monitoring environment using Ubuntu Server, Prometheus, Grafana, and Node Exporter.
+
+Implemented:
+- CPU, memory, disk, and network monitoring
+- Host availability monitoring (UP/DOWN)
+- System uptime tracking
+- Grafana dashboards
+- Alerting for infrastructure issues
+
+🔗 Project Documentation:
+[View NOC Monitoring Lab](PASTE-YOUR-REPO-LINK-HERE)
+
+
 
 Implemented:
 - CPU, memory, disk, and network monitoring
