@@ -2,54 +2,35 @@
 
 🧠 Aspiring NOC / SOC Analyst
 
-I specialize in building hands-on infrastructure monitoring and security labs focused on real-world IT operations, observability, and incident detection.
+I am focused on building hands-on experience in network operations, infrastructure monitoring, and cybersecurity. I enjoy creating labs that simulate real-world IT operations, monitoring, and security workflows.
 
-🔧 Current Focus
-- Network Operations Center (NOC) Monitoring
-- Security Operations Center (SOC) fundamentals
-- Infrastructure observability and alerting systems
-- Linux system administration and troubleshooting
+🎓 Certifications & Training
+- 🎓 Georgia State University Cybersecurity Certification Course
+- 🛡️ CodePath Cybersecurity Training
+- ✅ CompTIA Network+ Certified
+- 📚 CompTIA Security+ (In Progress)
 
-🧪 Featured Project
-
-🚀 NOC Monitoring & Observability Lab (Prometheus + Grafana)
-Built a full monitoring stack simulating enterprise-level infrastructure observability:
-- Real-time CPU, memory, disk, and network monitoring
-- Host availability tracking (UP/DOWN detection)
-- System uptime monitoring
-- Alerting rules for system anomalies
-- Grafana dashboards for operational visibility
-
-🔗 GitHub Repo: (add link here)
-
-🛠️ Tools & Technologies
+🚀 Featured Project
+NOC Monitoring & Observability Lab
+Built a monitoring environment using:
 - Ubuntu Server
 - Prometheus
 - Grafana
 - Node Exporter
-- Wazuh (in progress)
-- Linux (Ubuntu)
 
-🎓 Certifications & Training
-✅ CompTIA Network+ Certified
-📚 CompTIA Security+ (In Progress)
+Implemented:
+- CPU, memory, disk, and network monitoring
+- System uptime tracking
+- Host availability monitoring
+- Alerting for infrastructure issues
 
-Focused on:
-- Security operations fundamentals
-- Threat detection and response
-- Risk management
-- Security controls
-- Incident response concepts
+🔧 Tools & Technologies
+- Linux / Ubuntu Server
+- Prometheus
+- Grafana
+- Wazuh (SOC Lab)
+- SIEM Concepts
+- Networking Fundamentals
 
-📊 What I'm Building Next
-- SOC integration with Wazuh SIEM
-- Security event dashboards
-- Log-based alerting (failed logins, anomalies)
-- Full NOC + SOC unified monitoring platform
-
-📫 Connect With Me
-- LinkedIn: (add link here)
-- GitHub: (this profile)
-
-🚀 Goal
-To transition into a Network Operations (NOC) or Security Operations (SOC) Analyst role supporting enterprise infrastructure monitoring and cybersecurity operations.
+🎯 Career Goal
+Seeking opportunities as a NOC Analyst, SOC Analyst, or IT Operations Analyst while continuing to grow in infrastructure monitoring and cybersecurity.
