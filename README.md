@@ -24,7 +24,7 @@ Implemented:
 - Alerting for infrastructure issues
 
 🔗 Project Documentation:
-[View NOC Monitoring Lab](NOC-Lab-Documentation.md)
+[View NOC Monitoring Lab](PASTE-YOUR-REPO-LINK-HERE)
 
 
 
