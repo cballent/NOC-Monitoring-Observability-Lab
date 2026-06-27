@@ -31,9 +31,8 @@ Ubuntu Server (Node Exporter) → Prometheus → Grafana Dashboard → Netdata
 - Host Down Alert
 
 ## Dashboards
-- NOC Operational Monitoring Dashboard (Grafana)
-- NOC Alerting Dashboard
-- Netdata dashboard (Main Dashboard, System CPU, Memory Usage, Memory Cache, Memory Swap, & Disk Performance)
+- Grafana (NOC Operational Monitoring Dashboard & NOC Alerting Dashboard)
+- Netdata (Main Dashboard, System CPU, Memory Usage, Memory Cache, Memory Swap, Disk Performance)
 
 ## Screenshots
 <img width="3552" height="1199" alt="GitHub-NOC Operational Monitoring" src="https://github.com/user-attachments/assets/b8b802d1-8b43-48b7-8a8d-ab1d319b95b6" />
