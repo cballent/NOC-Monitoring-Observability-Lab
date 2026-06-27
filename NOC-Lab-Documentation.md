@@ -61,3 +61,4 @@ Ubuntu Server (Node Exporter) → Prometheus → Grafana Dashboard → Netdata
 - Add Wazuh SIEM integration
 - Add log-based alerting
 - Centralized SOC dashboard
+- Ticketing
