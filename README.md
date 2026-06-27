@@ -12,7 +12,7 @@ I am focused on building hands-on experience in network operations, infrastructu
 
 🚀 Featured Projects
 
-🖥️ NOC Monitoring & Observability Lab (Prometheus + Grafana)
+🖥️ NOC Monitoring & Observability Lab (Prometheus | Grafana | Netdata)
 
 Built a real-time infrastructure monitoring environment using Ubuntu Server, Prometheus, Grafana, and Node Exporter.
 
@@ -24,7 +24,7 @@ Implemented:
 - Alerting for infrastructure issues
 
 🚀 Featured Projects
-🖥️ NOC Monitoring & Observability Lab (Prometheus + Grafana)
+🖥️ NOC Monitoring & Observability Lab (Prometheus | Grafana | Netdata)
 Built a real-time infrastructure monitoring environment using Ubuntu Server, Prometheus, Grafana, and Node Exporter.
 Implemented:
 - CPU, memory, disk, and network monitoring
@@ -32,6 +32,7 @@ Implemented:
 - System uptime tracking
 - Grafana dashboards
 - Alerting for infrastructure issues
+- Netdata 
 
 🔗 Project Documentation:
 [View NOC Monitoring Lab](NOC-Lab-Documentation.md)
@@ -49,6 +50,7 @@ Implemented:
 - Wazuh (SOC Lab)
 - SIEM Concepts
 - Networking Fundamentals
+- Netdata
 
 🎯 Career Goal
 Seeking opportunities as a NOC Analyst, SOC Analyst, or IT Operations Analyst while continuing to grow in infrastructure monitoring and cybersecurity.
