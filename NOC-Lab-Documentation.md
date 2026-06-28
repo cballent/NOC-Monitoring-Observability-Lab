@@ -50,7 +50,8 @@ Ubuntu Server (Node Exporter) → Prometheus → Grafana Dashboard → Netdata
 
 <img width="2868" height="1172" alt="Netdata-5-Disk Performance" src="https://github.com/user-attachments/assets/f95346ab-d9dc-4409-8bf7-1de770feadc2" />
 
-<img width="830" height="562" alt="Python-Custom Monitoring Automation" src="https://github.com/user-attachments/assets/355e3d4e-59d9-4403-90e0-19817fe37297" />
+<img width="1039" height="1251" alt="Python-Custom Monitoring Automation" src="https://github.com/user-attachments/assets/128c2af6-1a6f-44b5-938a-14902cea94c2" />
+
 
 
 ## What I Learned
