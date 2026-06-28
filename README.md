@@ -1,6 +1,6 @@
 👋 Hi, I'm Colin
 
-🧠 Aspiring NOC / SOC Analyst
+🧠 Junior NOC / SOC Analyst
 
 I am focused on building hands-on experience in network operations, infrastructure monitoring, and cybersecurity. I enjoy creating labs that simulate real-world IT operations, monitoring, and security workflows.
 
