@@ -31,8 +31,9 @@ Ubuntu Server (Node Exporter) → Prometheus → Grafana Dashboard → Netdata
 - Host Down Alert
 
 ## Dashboards
-- Grafana (NOC Operational Monitoring Dashboard & NOC Alerting Dashboard)
+- Prometheus / Grafana (NOC Operational Monitoring Dashboard & NOC Alerting Dashboard)
 - Netdata (Main Dashboard, System CPU, Memory Usage, Memory Cache, Memory Swap, Disk Performance)
+- Python (Custom Monitoring Automation)
 
 ## Screenshots
 <img width="3552" height="1199" alt="GitHub-NOC Operational Monitoring" src="https://github.com/user-attachments/assets/b8b802d1-8b43-48b7-8a8d-ab1d319b95b6" />
@@ -48,6 +49,9 @@ Ubuntu Server (Node Exporter) → Prometheus → Grafana Dashboard → Netdata
 <img width="2868" height="1404" alt="Netdata-4-Memory-Usage-Cache-Swap" src="https://github.com/user-attachments/assets/522432cd-affc-4a3c-b468-d0dd2a394c44" />
 
 <img width="2868" height="1172" alt="Netdata-5-Disk Performance" src="https://github.com/user-attachments/assets/f95346ab-d9dc-4409-8bf7-1de770feadc2" />
+
+<img width="830" height="562" alt="Python-Custom Monitoring Automation" src="https://github.com/user-attachments/assets/355e3d4e-59d9-4403-90e0-19817fe37297" />
+
 
 ## What I Learned
 - How Prometheus collects system metrics
