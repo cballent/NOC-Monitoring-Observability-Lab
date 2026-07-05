@@ -9,6 +9,7 @@ I am focused on building hands-on experience in network operations, infrastructu
 - 🛡️ CodePath Cybersecurity Training
 - ✅ CompTIA Network+ Certified
 - 📚 CompTIA Security+ (In Progress)
+- 🎫 ServiceNow ITSM Fundamentals on Demand (Xanadu) - Completed
 
 🚀 Featured Projects
 
