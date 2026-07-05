@@ -36,7 +36,7 @@ Implemented:
 - Netdata 
 
 🔗 Project Documentation:
-[View NOC Monitoring Lab](NOC-Lab-Documentation.md)
+[View NOC Monitoring Lab](NOC Lab Documentation.md)
 
 Implemented:
 - CPU, memory, disk, and network monitoring
