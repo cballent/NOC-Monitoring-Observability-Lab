@@ -53,5 +53,5 @@ Implemented:
 - Networking Fundamentals
 - Netdata
 
-🎯 Career Goal
-Seeking opportunities as a NOC Analyst, SOC Analyst, or IT Operations Analyst while continuing to grow in infrastructure monitoring and cybersecurity.
+🎯 Future Career Goal
+Seeking opportunities as a NOC Analyst, SOC Analyst, IT Operations Analyst, or Network Security while continuing to grow in infrastructure monitoring and cybersecurity.
