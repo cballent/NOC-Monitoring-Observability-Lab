@@ -40,6 +40,7 @@ Ubuntu Server (Node Exporter) → Prometheus → Grafana Dashboard → Netdata
 # Grafana
 <img width="3552" height="1199" alt="GitHub-NOC Operational Monitoring" src="https://github.com/user-attachments/assets/b8b802d1-8b43-48b7-8a8d-ab1d319b95b6" />
 
+# Prometheus
 <img width="3710" height="1183" alt="NOC-Lab-Alerts" src="https://github.com/user-attachments/assets/4913a10d-c7ef-4269-a59a-fde997f467e3" />
 
 # Netdata
