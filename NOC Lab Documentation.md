@@ -37,13 +37,13 @@ Ubuntu Server (Node Exporter) → Prometheus → Grafana Dashboard → Netdata
 
 ## Screenshots
 
-# Grafana
+## Grafana
 <img width="3552" height="1199" alt="GitHub-NOC Operational Monitoring" src="https://github.com/user-attachments/assets/b8b802d1-8b43-48b7-8a8d-ab1d319b95b6" />
 
-# Prometheus
+## Prometheus
 <img width="3710" height="1183" alt="NOC-Lab-Alerts" src="https://github.com/user-attachments/assets/4913a10d-c7ef-4269-a59a-fde997f467e3" />
 
-# Netdata
+## Netdata
 <img width="3573" height="2121" alt="Netdata-1-Main" src="https://github.com/user-attachments/assets/7aafd6b7-2c40-418f-8ee8-fb53be033a14" />
 
 <img width="3465" height="1629" alt="Netdata-2-System-CPU" src="https://github.com/user-attachments/assets/18abfe4d-468a-42f0-966b-6da9f2363f96" />
@@ -54,7 +54,7 @@ Ubuntu Server (Node Exporter) → Prometheus → Grafana Dashboard → Netdata
 
 <img width="2868" height="1172" alt="Netdata-5-Disk Performance" src="https://github.com/user-attachments/assets/f95346ab-d9dc-4409-8bf7-1de770feadc2" />
 
-# Python Automation
+## Python Automation
 <img width="1039" height="1251" alt="Python-Custom Monitoring Automation" src="https://github.com/user-attachments/assets/128c2af6-1a6f-44b5-938a-14902cea94c2" />
 
 
